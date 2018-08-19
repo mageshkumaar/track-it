@@ -6,7 +6,7 @@
   "scripts": {
     "start": "nodemon src/api/app.js --exec \"npm run lint && node\"",
     "lint": "eslint src/**/*.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "export NODE_ENV=test || SET NODE_ENV=test && mocha test/** --exit --slow 50"
   },
   "keywords": [],
   "author": "Magesh Kumaar",
@@ -14,26 +14,27 @@
   "dependencies": {
     "bcrypt": "^3.0.0",
     "body-parser": "^1.18.3",
-    "chai": "^4.1.2",
     "cors": "^2.8.4",
     "express": "^4.16.3",
     "i18n": "^0.8.3",
-    "jest": "^23.4.2",
     "jsonwebtoken": "^8.3.0",
-    "mocha": "^5.2.0",
     "mongoose": "^5.2.7",
     "morgan": "^1.9.0",
     "redis": "^2.8.0",
-    "supertest": "^3.1.0",
     "winston": "^3.0.0"
   },
   "devDependencies": {
+    "chai": "^4.1.2",
     "eslint": "^5.3.0",
     "eslint-config-standard": "^11.0.0",
     "eslint-plugin-import": "^2.13.0",
     "eslint-plugin-node": "^7.0.1",
     "eslint-plugin-promise": "^3.8.0",
     "eslint-plugin-standard": "^3.1.0",
-    "nodemon": "^1.18.3"
+    "faker": "^4.1.0",
+    "jest": "^23.4.2",
+    "mocha": "^5.2.0",
+    "nodemon": "^1.18.3",
+    "supertest": "^3.1.0"
   }
 }

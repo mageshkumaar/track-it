@@ -1,9 +1,9 @@
 const express = require('express')
 const mongoose = require('mongoose')
-const config = require('./config/config')
+const config = require('../../config/config')
 const userRouter = require('./routes/user')
 const loginRouter = require('./routes/login')
-const logger = require('./config/logger')
+const logger = require('../utils/logger')
 
 // Starting up the database
 mongoose.connect(config.database.uri, config.database.options, (err) => {
@@ -24,3 +24,5 @@ app.use(loginRouter)
 app.listen(config.app.port, () => {
   logger.info(`Starting the server on ${config.app.port}`)
 })
+
+module.exports = app

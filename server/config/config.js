@@ -15,6 +15,9 @@ const development = {
     options: {
       expiresIn: 604800
     }
+  },
+  logs: {
+    file_name: 'app.log'
   }
 }
 
@@ -33,12 +36,37 @@ const production = {
     options: {
       expiresIn: 604800
     }
+  },
+  logs: {
+    file_name: 'app.log'
+  }
+}
+
+const test = {
+  app: {
+    port: 3010
+  },
+  database: {
+    uri: 'mongodb://localhost:27017/trackit-test',
+    options: {
+      useNewUrlParser: true
+    }
+  },
+  jwt: {
+    secret_key: '4rwDHftQzLc4Z0xrwV0L',
+    options: {
+      expiresIn: 86400
+    }
+  },
+  logs: {
+    file_name: 'test.log'
   }
 }
 
 const config = {
   development,
-  production
+  production,
+  test
 }
 
 module.exports = config[env]

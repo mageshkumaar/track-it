@@ -1,5 +1,5 @@
 server/package-lock.json
 server/.gitignore
-logs/app.log
+logs
 .vscode/settings.json
 node_modules

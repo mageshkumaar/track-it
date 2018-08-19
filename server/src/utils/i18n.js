@@ -5,7 +5,7 @@ i18n.configure({
   // __dirname points to the current directory i.e., config directory
   // If the directory and the files are not available, those will
   // be created automatically.
-  directory: `${__dirname}/../locales`
+  directory: `${__dirname}/../../locales`
 })
 
 module.exports = i18n

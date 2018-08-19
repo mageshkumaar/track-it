@@ -1,10 +1,10 @@
 const mongoose = require('mongoose')
 const bcrypt = require('bcrypt')
-const logger = require('../config/logger')
-const i18n = require('../config/i18n')
+const logger = require('../../utils/logger')
+const i18n = require('../../utils/i18n')
 const User = require('../models/user')
 const jwt = require('jsonwebtoken')
-const config = require('../config/config')
+const config = require('../../../config/config')
 
 const saltRounds = 10
 
