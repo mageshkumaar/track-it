@@ -4,8 +4,8 @@
   "description": "Back end for the track-it Asset Management System",
   "main": "server.js",
   "scripts": {
-    "start": "nodemon api/app.js --exec \"npm run lint && node\"",
-    "lint": "eslint api/**/*.js",
+    "start": "nodemon src/api/app.js --exec \"npm run lint && node\"",
+    "lint": "eslint src/**/*.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],

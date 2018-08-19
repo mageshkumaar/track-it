@@ -2,3 +2,4 @@ server/package-lock.json
 server/.gitignore
 logs/app.log
 .vscode/settings.json
+node_modules

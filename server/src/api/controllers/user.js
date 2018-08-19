@@ -42,10 +42,9 @@ const create = async (req, res) => {
       password: passwordHash
     })
     // Save the user in the database
-    newUser.save().then(doc => {
-      logger.info(`New user created with user Id ${doc._id}`)
-      return res.status(200).send(doc)
-    })
+    await newUser.save()
+    logger.info(`New user created with user Id ${newUser._id}`)
+    return res.status(200).send(newUser)
   } catch (err) {
     logger.error(err)
     return res.status(500).send({
@@ -77,72 +76,72 @@ const update = (req, res) => {
   })
 }
 
-const show = (req, res) => {
-  User.findById(req.params.id).then(doc => {
+const show = async (req, res) => {
+  try {
+    const user = await User.findById(req.params.id)
     // findById returns null if the document is not found unlike find
     // which returns an empty collection if the document is not found
+    if (user === null) {
+      return res.status(404).send({
+        error: i18n.__('resource.notfound')
+      })
+    }
+    return res.status(200).send(user)
+  } catch (e) {
+    return res.status(500).send({
+      error: i18n.__('server.error')
+    })
+  }
+}
+
+const remove = (req, res) => {
+  User.findByIdAndRemove(req.params.id).then(doc => {
     if (doc === null) {
       return res.status(404).send({
         error: i18n.__('resource.notfound')
       })
     }
-
-    return res.status(200).send(doc)
-  })
-}
-
-const remove = (req, res) => {
-  User.findByIdAndRemove(req.params.id).then(doc => {
     logger.info(`Deleted user ${req.params.id}`)
-    res.status(200).send({
+    return res.status(200).send({
       message: i18n.__('user.delete.success')
     })
   }).catch(err => {
     logger.error(err)
-    res.status(500).send({
+    return res.status(500).send({
       error: i18n.__('server.error')
     })
   })
 }
 
 const login = async (req, res) => {
-  User.findOne({
-    email: req.body.email
-  }).then(user => {
-    if (user === null) { // User with the email is not found
-      return res.status(401).send({
-        error: i18n.__('user.login.fail')
-      })
+  try {
+    const user = await User.findOne({
+      email: req.body.email
+    })
+    if (user === null) {
+      throw new Error('User with the email not found')
     }
-    bcrypt.compare(req.body.password, user.password, (err, matches) => {
-      if (err) {
-        logger.error(err)
-        return res.status(401).send({
-          error: i18n.__('user.login.fail')
-        })
-      }
-      if (!matches) { // Passwords don't match
-        return res.status(401).send({
-          error: i18n.__('user.login.fail')
-        })
-      }
+    const matches = await bcrypt.compare(req.body.password, user.password)
+    if (!matches) {
+      throw new Error('Passwords don\'t match')
+    } else {
       jwt.sign({
         id: user._id
       }, config.jwt.secret_key, config.jwt.options, (err, token) => {
-        if (err) {
-          logger.error(err)
-          return res.status(401).send({
-            error: i18n.__('user.login.fail')
-          })
-        }
+        if (err) { throw new Error(err) }
         logger.info(`User with email ${user.email} logged in successfully`)
         return res.status(200).send({
           user: user,
           token: token
         })
       })
+    }
+  } catch (e) {
+    logger.error(e)
+    return res.status(401).send({
+      error: i18n.__('user.login.fail')
     })
-  })
+  }
 }
 
 module.exports = {
