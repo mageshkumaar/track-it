@@ -1,8 +1,0 @@
-{
-  "server.error": "Error occurred.",
-  "resource.notfound": "Resource not found",
-  "user.email.exists": "Email already exists.",
-  "user.delete.success": "User deleted successfully.",
-  "user.login.success": "Login Successful.",
-  "user.login.fail": "Invalid Credentials."
-}
