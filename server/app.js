@@ -5,6 +5,8 @@ const logger = require('../shared/logger')
 const config = require('../config/config')
 const authRouter = require('./src/routes/auth')
 const userRouter = require('./src/routes/user')
+const manufacturerRouter = require('./src/routes/manufacturer')
+const categoryRouter = require('./src/routes/category')
 const authMiddleware = require('./src/middlewares/auth')
 
 // Starting up the database
@@ -36,6 +38,8 @@ app.use(authMiddleware)
 // Configuration of the routes
 app.use(authRouter)
 app.use('/users', userRouter)
+app.use('/manufacturers', manufacturerRouter)
+app.use('/categories', categoryRouter)
 
 // Starting the server
 app.listen(config.app.port.backend, () => {

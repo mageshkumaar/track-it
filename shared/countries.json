@@ -1,0 +1,3659 @@
+[
+  {
+    "currencies": [
+      {
+        "code": "AFN",
+        "name": "Afghan afghani",
+        "symbol": "؋"
+      }
+    ],
+    "name": "Afghanistan",
+    "callingCodes": [
+      "93"
+    ],
+    "capital": "Kabul"
+  },
+  {
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "name": "Åland Islands",
+    "callingCodes": [
+      "358"
+    ],
+    "capital": "Mariehamn"
+  },
+  {
+    "currencies": [
+      {
+        "code": "ALL",
+        "name": "Albanian lek",
+        "symbol": "L"
+      }
+    ],
+    "name": "Albania",
+    "callingCodes": [
+      "355"
+    ],
+    "capital": "Tirana"
+  },
+  {
+    "currencies": [
+      {
+        "code": "DZD",
+        "name": "Algerian dinar",
+        "symbol": "د.ج"
+      }
+    ],
+    "name": "Algeria",
+    "callingCodes": [
+      "213"
+    ],
+    "capital": "Algiers"
+  },
+  {
+    "currencies": [
+      {
+        "code": "USD",
+        "name": "United State Dollar",
+        "symbol": "$"
+      }
+    ],
+    "name": "American Samoa",
+    "callingCodes": [
+      "1684"
+    ],
+    "capital": "Pago Pago"
+  },
+  {
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "name": "Andorra",
+    "callingCodes": [
+      "376"
+    ],
+    "capital": "Andorra la Vella"
+  },
+  {
+    "currencies": [
+      {
+        "code": "AOA",
+        "name": "Angolan kwanza",
+        "symbol": "Kz"
+      }
+    ],
+    "name": "Angola",
+    "callingCodes": [
+      "244"
+    ],
+    "capital": "Luanda"
+  },
+  {
+    "currencies": [
+      {
+        "code": "XCD",
+        "name": "East Caribbean dollar",
+        "symbol": "$"
+      }
+    ],
+    "name": "Anguilla",
+    "callingCodes": [
+      "1264"
+    ],
+    "capital": "The Valley"
+  },
+  {
+    "currencies": [
+      {
+        "code": "AUD",
+        "name": "Australian dollar",
+        "symbol": "$"
+      },
+      {
+        "code": "GBP",
+        "name": "British pound",
+        "symbol": "£"
+      }
+    ],
+    "name": "Antarctica",
+    "callingCodes": [
+      "672"
+    ],
+    "capital": ""
+  },
+  {
+    "currencies": [
+      {
+        "code": "XCD",
+        "name": "East Caribbean dollar",
+        "symbol": "$"
+      }
+    ],
+    "name": "Antigua and Barbuda",
+    "callingCodes": [
+      "1268"
+    ],
+    "capital": "Saint John's"
+  },
+  {
+    "currencies": [
+      {
+        "code": "ARS",
+        "name": "Argentine peso",
+        "symbol": "$"
+      }
+    ],
+    "name": "Argentina",
+    "callingCodes": [
+      "54"
+    ],
+    "capital": "Buenos Aires"
+  },
+  {
+    "currencies": [
+      {
+        "code": "AMD",
+        "name": "Armenian dram"
+      }
+    ],
+    "name": "Armenia",
+    "callingCodes": [
+      "374"
+    ],
+    "capital": "Yerevan"
+  },
+  {
+    "currencies": [
+      {
+        "code": "AWG",
+        "name": "Aruban florin",
+        "symbol": "ƒ"
+      }
+    ],
+    "name": "Aruba",
+    "callingCodes": [
+      "297"
+    ],
+    "capital": "Oranjestad"
+  },
+  {
+    "currencies": [
+      {
+        "code": "AUD",
+        "name": "Australian dollar",
+        "symbol": "$"
+      }
+    ],
+    "name": "Australia",
+    "callingCodes": [
+      "61"
+    ],
+    "capital": "Canberra"
+  },
+  {
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "name": "Austria",
+    "callingCodes": [
+      "43"
+    ],
+    "capital": "Vienna"
+  },
+  {
+    "currencies": [
+      {
+        "code": "AZN",
+        "name": "Azerbaijani manat"
+      }
+    ],
+    "name": "Azerbaijan",
+    "callingCodes": [
+      "994"
+    ],
+    "capital": "Baku"
+  },
+  {
+    "currencies": [
+      {
+        "code": "BSD",
+        "name": "Bahamian dollar",
+        "symbol": "$"
+      }
+    ],
+    "name": "Bahamas",
+    "callingCodes": [
+      "1242"
+    ],
+    "capital": "Nassau"
+  },
+  {
+    "currencies": [
+      {
+        "code": "BHD",
+        "name": "Bahraini dinar",
+        "symbol": ".د.ب"
+      }
+    ],
+    "name": "Bahrain",
+    "callingCodes": [
+      "973"
+    ],
+    "capital": "Manama"
+  },
+  {
+    "currencies": [
+      {
+        "code": "BDT",
+        "name": "Bangladeshi taka",
+        "symbol": "৳"
+      }
+    ],
+    "name": "Bangladesh",
+    "callingCodes": [
+      "880"
+    ],
+    "capital": "Dhaka"
+  },
+  {
+    "currencies": [
+      {
+        "code": "BBD",
+        "name": "Barbadian dollar",
+        "symbol": "$"
+      }
+    ],
+    "name": "Barbados",
+    "callingCodes": [
+      "1246"
+    ],
+    "capital": "Bridgetown"
+  },
+  {
+    "currencies": [
+      {
+        "code": "BYN",
+        "name": "New Belarusian ruble",
+        "symbol": "Br"
+      },
+      {
+        "code": "BYR",
+        "name": "Old Belarusian ruble",
+        "symbol": "Br"
+      }
+    ],
+    "name": "Belarus",
+    "callingCodes": [
+      "375"
+    ],
+    "capital": "Minsk"
+  },
+  {
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "name": "Belgium",
+    "callingCodes": [
+      "32"
+    ],
+    "capital": "Brussels"
+  },
+  {
+    "currencies": [
+      {
+        "code": "BZD",
+        "name": "Belize dollar",
+        "symbol": "$"
+      }
+    ],
+    "name": "Belize",
+    "callingCodes": [
+      "501"
+    ],
+    "capital": "Belmopan"
+  },
+  {
+    "currencies": [
+      {
+        "code": "XOF",
+        "name": "West African CFA franc",
+        "symbol": "Fr"
+      }
+    ],
+    "name": "Benin",
+    "callingCodes": [
+      "229"
+    ],
+    "capital": "Porto-Novo"
+  },
+  {
+    "currencies": [
+      {
+        "code": "BMD",
+        "name": "Bermudian dollar",
+        "symbol": "$"
+      }
+    ],
+    "name": "Bermuda",
+    "callingCodes": [
+      "1441"
+    ],
+    "capital": "Hamilton"
+  },
+  {
+    "currencies": [
+      {
+        "code": "BTN",
+        "name": "Bhutanese ngultrum",
+        "symbol": "Nu."
+      },
+      {
+        "code": "INR",
+        "name": "Indian rupee",
+        "symbol": "₹"
+      }
+    ],
+    "name": "Bhutan",
+    "callingCodes": [
+      "975"
+    ],
+    "capital": "Thimphu"
+  },
+  {
+    "currencies": [
+      {
+        "code": "BOB",
+        "name": "Bolivian boliviano",
+        "symbol": "Bs."
+      }
+    ],
+    "name": "Bolivia (Plurinational State of)",
+    "callingCodes": [
+      "591"
+    ],
+    "capital": "Sucre"
+  },
+  {
+    "currencies": [
+      {
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    ],
+    "name": "Bonaire, Sint Eustatius and Saba",
+    "callingCodes": [
+      "5997"
+    ],
+    "capital": "Kralendijk"
+  },
+  {
+    "currencies": [
+      {
+        "code": "BAM",
+        "name": "Bosnia and Herzegovina convertible mark"
+      }
+    ],
+    "name": "Bosnia and Herzegovina",
+    "callingCodes": [
+      "387"
+    ],
+    "capital": "Sarajevo"
+  },
+  {
+    "currencies": [
+      {
+        "code": "BWP",
+        "name": "Botswana pula",
+        "symbol": "P"
+      }
+    ],
+    "name": "Botswana",
+    "callingCodes": [
+      "267"
+    ],
+    "capital": "Gaborone"
+  },
+  {
+    "currencies": [
+      {
+        "code": "NOK",
+        "name": "Norwegian krone",
+        "symbol": "kr"
+      }
+    ],
+    "name": "Bouvet Island",
+    "callingCodes": [
+      ""
+    ],
+    "capital": ""
+  },
+  {
+    "currencies": [
+      {
+        "code": "BRL",
+        "name": "Brazilian real",
+        "symbol": "R$"
+      }
+    ],
+    "name": "Brazil",
+    "callingCodes": [
+      "55"
+    ],
+    "capital": "Brasília"
+  },
+  {
+    "currencies": [
+      {
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    ],
+    "name": "British Indian Ocean Territory",
+    "callingCodes": [
+      "246"
+    ],
+    "capital": "Diego Garcia"
+  },
+  {
+    "currencies": [
+      {
+        "code": "USD",
+        "name": "United States Dollar",
+        "symbol": "$"
+      }
+    ],
+    "name": "United States Minor Outlying Islands",
+    "callingCodes": [
+      ""
+    ],
+    "capital": ""
+  },
+  {
+    "currencies": [
+      {
+        "name": "[D]",
+        "symbol": "$"
+      },
+      {
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    ],
+    "name": "Virgin Islands (British)",
+    "callingCodes": [
+      "1284"
+    ],
+    "capital": "Road Town"
+  },
+  {
+    "currencies": [
+      {
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    ],
+    "name": "Virgin Islands (U.S.)",
+    "callingCodes": [
+      "1 340"
+    ],
+    "capital": "Charlotte Amalie"
+  },
+  {
+    "currencies": [
+      {
+        "code": "BND",
+        "name": "Brunei dollar",
+        "symbol": "$"
+      },
+      {
+        "code": "SGD",
+        "name": "Singapore dollar",
+        "symbol": "$"
+      }
+    ],
+    "name": "Brunei Darussalam",
+    "callingCodes": [
+      "673"
+    ],
+    "capital": "Bandar Seri Begawan"
+  },
+  {
+    "currencies": [
+      {
+        "code": "BGN",
+        "name": "Bulgarian lev",
+        "symbol": "лв"
+      }
+    ],
+    "name": "Bulgaria",
+    "callingCodes": [
+      "359"
+    ],
+    "capital": "Sofia"
+  },
+  {
+    "currencies": [
+      {
+        "code": "XOF",
+        "name": "West African CFA franc",
+        "symbol": "Fr"
+      }
+    ],
+    "name": "Burkina Faso",
+    "callingCodes": [
+      "226"
+    ],
+    "capital": "Ouagadougou"
+  },
+  {
+    "currencies": [
+      {
+        "code": "BIF",
+        "name": "Burundian franc",
+        "symbol": "Fr"
+      }
+    ],
+    "name": "Burundi",
+    "callingCodes": [
+      "257"
+    ],
+    "capital": "Bujumbura"
+  },
+  {
+    "currencies": [
+      {
+        "code": "KHR",
+        "name": "Cambodian riel",
+        "symbol": "៛"
+      },
+      {
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    ],
+    "name": "Cambodia",
+    "callingCodes": [
+      "855"
+    ],
+    "capital": "Phnom Penh"
+  },
+  {
+    "currencies": [
+      {
+        "code": "XAF",
+        "name": "Central African CFA franc",
+        "symbol": "Fr"
+      }
+    ],
+    "name": "Cameroon",
+    "callingCodes": [
+      "237"
+    ],
+    "capital": "Yaoundé"
+  },
+  {
+    "currencies": [
+      {
+        "code": "CAD",
+        "name": "Canadian dollar",
+        "symbol": "$"
+      }
+    ],
+    "name": "Canada",
+    "callingCodes": [
+      "1"
+    ],
+    "capital": "Ottawa"
+  },
+  {
+    "currencies": [
+      {
+        "code": "CVE",
+        "name": "Cape Verdean escudo",
+        "symbol": "Esc"
+      }
+    ],
+    "name": "Cabo Verde",
+    "callingCodes": [
+      "238"
+    ],
+    "capital": "Praia"
+  },
+  {
+    "currencies": [
+      {
+        "code": "KYD",
+        "name": "Cayman Islands dollar",
+        "symbol": "$"
+      }
+    ],
+    "name": "Cayman Islands",
+    "callingCodes": [
+      "1345"
+    ],
+    "capital": "George Town"
+  },
+  {
+    "currencies": [
+      {
+        "code": "XAF",
+        "name": "Central African CFA franc",
+        "symbol": "Fr"
+      }
+    ],
+    "name": "Central African Republic",
+    "callingCodes": [
+      "236"
+    ],
+    "capital": "Bangui"
+  },
+  {
+    "currencies": [
+      {
+        "code": "XAF",
+        "name": "Central African CFA franc",
+        "symbol": "Fr"
+      }
+    ],
+    "name": "Chad",
+    "callingCodes": [
+      "235"
+    ],
+    "capital": "N'Djamena"
+  },
+  {
+    "currencies": [
+      {
+        "code": "CLP",
+        "name": "Chilean peso",
+        "symbol": "$"
+      }
+    ],
+    "name": "Chile",
+    "callingCodes": [
+      "56"
+    ],
+    "capital": "Santiago"
+  },
+  {
+    "currencies": [
+      {
+        "code": "CNY",
+        "name": "Chinese yuan",
+        "symbol": "¥"
+      }
+    ],
+    "name": "China",
+    "callingCodes": [
+      "86"
+    ],
+    "capital": "Beijing"
+  },
+  {
+    "currencies": [
+      {
+        "code": "AUD",
+        "name": "Australian dollar",
+        "symbol": "$"
+      }
+    ],
+    "name": "Christmas Island",
+    "callingCodes": [
+      "61"
+    ],
+    "capital": "Flying Fish Cove"
+  },
+  {
+    "currencies": [
+      {
+        "code": "AUD",
+        "name": "Australian dollar",
+        "symbol": "$"
+      }
+    ],
+    "name": "Cocos (Keeling) Islands",
+    "callingCodes": [
+      "61"
+    ],
+    "capital": "West Island"
+  },
+  {
+    "currencies": [
+      {
+        "code": "COP",
+        "name": "Colombian peso",
+        "symbol": "$"
+      }
+    ],
+    "name": "Colombia",
+    "callingCodes": [
+      "57"
+    ],
+    "capital": "Bogotá"
+  },
+  {
+    "currencies": [
+      {
+        "code": "KMF",
+        "name": "Comorian franc",
+        "symbol": "Fr"
+      }
+    ],
+    "name": "Comoros",
+    "callingCodes": [
+      "269"
+    ],
+    "capital": "Moroni"
+  },
+  {
+    "currencies": [
+      {
+        "code": "XAF",
+        "name": "Central African CFA franc",
+        "symbol": "Fr"
+      }
+    ],
+    "name": "Congo",
+    "callingCodes": [
+      "242"
+    ],
+    "capital": "Brazzaville"
+  },
+  {
+    "currencies": [
+      {
+        "code": "CDF",
+        "name": "Congolese franc",
+        "symbol": "Fr"
+      }
+    ],
+    "name": "Congo (Democratic Republic of the)",
+    "callingCodes": [
+      "243"
+    ],
+    "capital": "Kinshasa"
+  },
+  {
+    "currencies": [
+      {
+        "code": "NZD",
+        "name": "New Zealand dollar",
+        "symbol": "$"
+      },
+      {
+        "code": "CKD",
+        "name": "Cook Islands dollar",
+        "symbol": "$"
+      }
+    ],
+    "name": "Cook Islands",
+    "callingCodes": [
+      "682"
+    ],
+    "capital": "Avarua"
+  },
+  {
+    "currencies": [
+      {
+        "code": "CRC",
+        "name": "Costa Rican colón",
+        "symbol": "₡"
+      }
+    ],
+    "name": "Costa Rica",
+    "callingCodes": [
+      "506"
+    ],
+    "capital": "San José"
+  },
+  {
+    "currencies": [
+      {
+        "code": "HRK",
+        "name": "Croatian kuna",
+        "symbol": "kn"
+      }
+    ],
+    "name": "Croatia",
+    "callingCodes": [
+      "385"
+    ],
+    "capital": "Zagreb"
+  },
+  {
+    "currencies": [
+      {
+        "code": "CUC",
+        "name": "Cuban convertible peso",
+        "symbol": "$"
+      },
+      {
+        "code": "CUP",
+        "name": "Cuban peso",
+        "symbol": "$"
+      }
+    ],
+    "name": "Cuba",
+    "callingCodes": [
+      "53"
+    ],
+    "capital": "Havana"
+  },
+  {
+    "currencies": [
+      {
+        "code": "ANG",
+        "name": "Netherlands Antillean guilder",
+        "symbol": "ƒ"
+      }
+    ],
+    "name": "Curaçao",
+    "callingCodes": [
+      "599"
+    ],
+    "capital": "Willemstad"
+  },
+  {
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "name": "Cyprus",
+    "callingCodes": [
+      "357"
+    ],
+    "capital": "Nicosia"
+  },
+  {
+    "currencies": [
+      {
+        "code": "CZK",
+        "name": "Czech koruna",
+        "symbol": "Kč"
+      }
+    ],
+    "name": "Czech Republic",
+    "callingCodes": [
+      "420"
+    ],
+    "capital": "Prague"
+  },
+  {
+    "currencies": [
+      {
+        "code": "DKK",
+        "name": "Danish krone",
+        "symbol": "kr"
+      }
+    ],
+    "name": "Denmark",
+    "callingCodes": [
+      "45"
+    ],
+    "capital": "Copenhagen"
+  },
+  {
+    "currencies": [
+      {
+        "code": "DJF",
+        "name": "Djiboutian franc",
+        "symbol": "Fr"
+      }
+    ],
+    "name": "Djibouti",
+    "callingCodes": [
+      "253"
+    ],
+    "capital": "Djibouti"
+  },
+  {
+    "currencies": [
+      {
+        "code": "XCD",
+        "name": "East Caribbean dollar",
+        "symbol": "$"
+      }
+    ],
+    "name": "Dominica",
+    "callingCodes": [
+      "1767"
+    ],
+    "capital": "Roseau"
+  },
+  {
+    "currencies": [
+      {
+        "code": "DOP",
+        "name": "Dominican peso",
+        "symbol": "$"
+      }
+    ],
+    "name": "Dominican Republic",
+    "callingCodes": [
+      "1809",
+      "1829",
+      "1849"
+    ],
+    "capital": "Santo Domingo"
+  },
+  {
+    "currencies": [
+      {
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    ],
+    "name": "Ecuador",
+    "callingCodes": [
+      "593"
+    ],
+    "capital": "Quito"
+  },
+  {
+    "currencies": [
+      {
+        "code": "EGP",
+        "name": "Egyptian pound",
+        "symbol": "£"
+      }
+    ],
+    "name": "Egypt",
+    "callingCodes": [
+      "20"
+    ],
+    "capital": "Cairo"
+  },
+  {
+    "currencies": [
+      {
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    ],
+    "name": "El Salvador",
+    "callingCodes": [
+      "503"
+    ],
+    "capital": "San Salvador"
+  },
+  {
+    "currencies": [
+      {
+        "code": "XAF",
+        "name": "Central African CFA franc",
+        "symbol": "Fr"
+      }
+    ],
+    "name": "Equatorial Guinea",
+    "callingCodes": [
+      "240"
+    ],
+    "capital": "Malabo"
+  },
+  {
+    "currencies": [
+      {
+        "code": "ERN",
+        "name": "Eritrean nakfa",
+        "symbol": "Nfk"
+      }
+    ],
+    "name": "Eritrea",
+    "callingCodes": [
+      "291"
+    ],
+    "capital": "Asmara"
+  },
+  {
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "name": "Estonia",
+    "callingCodes": [
+      "372"
+    ],
+    "capital": "Tallinn"
+  },
+  {
+    "currencies": [
+      {
+        "code": "ETB",
+        "name": "Ethiopian birr",
+        "symbol": "Br"
+      }
+    ],
+    "name": "Ethiopia",
+    "callingCodes": [
+      "251"
+    ],
+    "capital": "Addis Ababa"
+  },
+  {
+    "currencies": [
+      {
+        "code": "FKP",
+        "name": "Falkland Islands pound",
+        "symbol": "£"
+      }
+    ],
+    "name": "Falkland Islands (Malvinas)",
+    "callingCodes": [
+      "500"
+    ],
+    "capital": "Stanley"
+  },
+  {
+    "currencies": [
+      {
+        "code": "DKK",
+        "name": "Danish krone",
+        "symbol": "kr"
+      },
+      {
+        "code": "(none)",
+        "name": "Faroese króna",
+        "symbol": "kr"
+      }
+    ],
+    "name": "Faroe Islands",
+    "callingCodes": [
+      "298"
+    ],
+    "capital": "Tórshavn"
+  },
+  {
+    "currencies": [
+      {
+        "code": "FJD",
+        "name": "Fijian dollar",
+        "symbol": "$"
+      }
+    ],
+    "name": "Fiji",
+    "callingCodes": [
+      "679"
+    ],
+    "capital": "Suva"
+  },
+  {
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "name": "Finland",
+    "callingCodes": [
+      "358"
+    ],
+    "capital": "Helsinki"
+  },
+  {
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "name": "France",
+    "callingCodes": [
+      "33"
+    ],
+    "capital": "Paris"
+  },
+  {
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "name": "French Guiana",
+    "callingCodes": [
+      "594"
+    ],
+    "capital": "Cayenne"
+  },
+  {
+    "currencies": [
+      {
+        "code": "XPF",
+        "name": "CFP franc",
+        "symbol": "Fr"
+      }
+    ],
+    "name": "French Polynesia",
+    "callingCodes": [
+      "689"
+    ],
+    "capital": "Papeetē"
+  },
+  {
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "name": "French Southern Territories",
+    "callingCodes": [
+      ""
+    ],
+    "capital": "Port-aux-Français"
+  },
+  {
+    "currencies": [
+      {
+        "code": "XAF",
+        "name": "Central African CFA franc",
+        "symbol": "Fr"
+      }
+    ],
+    "name": "Gabon",
+    "callingCodes": [
+      "241"
+    ],
+    "capital": "Libreville"
+  },
+  {
+    "currencies": [
+      {
+        "code": "GMD",
+        "name": "Gambian dalasi",
+        "symbol": "D"
+      }
+    ],
+    "name": "Gambia",
+    "callingCodes": [
+      "220"
+    ],
+    "capital": "Banjul"
+  },
+  {
+    "currencies": [
+      {
+        "code": "GEL",
+        "name": "Georgian Lari",
+        "symbol": "ლ"
+      }
+    ],
+    "name": "Georgia",
+    "callingCodes": [
+      "995"
+    ],
+    "capital": "Tbilisi"
+  },
+  {
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "name": "Germany",
+    "callingCodes": [
+      "49"
+    ],
+    "capital": "Berlin"
+  },
+  {
+    "currencies": [
+      {
+        "code": "GHS",
+        "name": "Ghanaian cedi",
+        "symbol": "₵"
+      }
+    ],
+    "name": "Ghana",
+    "callingCodes": [
+      "233"
+    ],
+    "capital": "Accra"
+  },
+  {
+    "currencies": [
+      {
+        "code": "GIP",
+        "name": "Gibraltar pound",
+        "symbol": "£"
+      }
+    ],
+    "name": "Gibraltar",
+    "callingCodes": [
+      "350"
+    ],
+    "capital": "Gibraltar"
+  },
+  {
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "name": "Greece",
+    "callingCodes": [
+      "30"
+    ],
+    "capital": "Athens"
+  },
+  {
+    "currencies": [
+      {
+        "code": "DKK",
+        "name": "Danish krone",
+        "symbol": "kr"
+      }
+    ],
+    "name": "Greenland",
+    "callingCodes": [
+      "299"
+    ],
+    "capital": "Nuuk"
+  },
+  {
+    "currencies": [
+      {
+        "code": "XCD",
+        "name": "East Caribbean dollar",
+        "symbol": "$"
+      }
+    ],
+    "name": "Grenada",
+    "callingCodes": [
+      "1473"
+    ],
+    "capital": "St. George's"
+  },
+  {
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "name": "Guadeloupe",
+    "callingCodes": [
+      "590"
+    ],
+    "capital": "Basse-Terre"
+  },
+  {
+    "currencies": [
+      {
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    ],
+    "name": "Guam",
+    "callingCodes": [
+      "1671"
+    ],
+    "capital": "Hagåtña"
+  },
+  {
+    "currencies": [
+      {
+        "code": "GTQ",
+        "name": "Guatemalan quetzal",
+        "symbol": "Q"
+      }
+    ],
+    "name": "Guatemala",
+    "callingCodes": [
+      "502"
+    ],
+    "capital": "Guatemala City"
+  },
+  {
+    "currencies": [
+      {
+        "code": "GBP",
+        "name": "British pound",
+        "symbol": "£"
+      },
+      {
+        "code": "(none)",
+        "name": "Guernsey pound",
+        "symbol": "£"
+      }
+    ],
+    "name": "Guernsey",
+    "callingCodes": [
+      "44"
+    ],
+    "capital": "St. Peter Port"
+  },
+  {
+    "currencies": [
+      {
+        "code": "GNF",
+        "name": "Guinean franc",
+        "symbol": "Fr"
+      }
+    ],
+    "name": "Guinea",
+    "callingCodes": [
+      "224"
+    ],
+    "capital": "Conakry"
+  },
+  {
+    "currencies": [
+      {
+        "code": "XOF",
+        "name": "West African CFA franc",
+        "symbol": "Fr"
+      }
+    ],
+    "name": "Guinea-Bissau",
+    "callingCodes": [
+      "245"
+    ],
+    "capital": "Bissau"
+  },
+  {
+    "currencies": [
+      {
+        "code": "GYD",
+        "name": "Guyanese dollar",
+        "symbol": "$"
+      }
+    ],
+    "name": "Guyana",
+    "callingCodes": [
+      "592"
+    ],
+    "capital": "Georgetown"
+  },
+  {
+    "currencies": [
+      {
+        "code": "HTG",
+        "name": "Haitian gourde",
+        "symbol": "G"
+      }
+    ],
+    "name": "Haiti",
+    "callingCodes": [
+      "509"
+    ],
+    "capital": "Port-au-Prince"
+  },
+  {
+    "currencies": [
+      {
+        "code": "AUD",
+        "name": "Australian dollar",
+        "symbol": "$"
+      }
+    ],
+    "name": "Heard Island and McDonald Islands",
+    "callingCodes": [
+      ""
+    ],
+    "capital": ""
+  },
+  {
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "name": "Holy See",
+    "callingCodes": [
+      "379"
+    ],
+    "capital": "Rome"
+  },
+  {
+    "currencies": [
+      {
+        "code": "HNL",
+        "name": "Honduran lempira",
+        "symbol": "L"
+      }
+    ],
+    "name": "Honduras",
+    "callingCodes": [
+      "504"
+    ],
+    "capital": "Tegucigalpa"
+  },
+  {
+    "currencies": [
+      {
+        "code": "HKD",
+        "name": "Hong Kong dollar",
+        "symbol": "$"
+      }
+    ],
+    "name": "Hong Kong",
+    "callingCodes": [
+      "852"
+    ],
+    "capital": "City of Victoria"
+  },
+  {
+    "currencies": [
+      {
+        "code": "HUF",
+        "name": "Hungarian forint",
+        "symbol": "Ft"
+      }
+    ],
+    "name": "Hungary",
+    "callingCodes": [
+      "36"
+    ],
+    "capital": "Budapest"
+  },
+  {
+    "currencies": [
+      {
+        "code": "ISK",
+        "name": "Icelandic króna",
+        "symbol": "kr"
+      }
+    ],
+    "name": "Iceland",
+    "callingCodes": [
+      "354"
+    ],
+    "capital": "Reykjavík"
+  },
+  {
+    "currencies": [
+      {
+        "code": "INR",
+        "name": "Indian rupee",
+        "symbol": "₹"
+      }
+    ],
+    "name": "India",
+    "callingCodes": [
+      "91"
+    ],
+    "capital": "New Delhi"
+  },
+  {
+    "currencies": [
+      {
+        "code": "IDR",
+        "name": "Indonesian rupiah",
+        "symbol": "Rp"
+      }
+    ],
+    "name": "Indonesia",
+    "callingCodes": [
+      "62"
+    ],
+    "capital": "Jakarta"
+  },
+  {
+    "currencies": [
+      {
+        "code": "XOF",
+        "name": "West African CFA franc",
+        "symbol": "Fr"
+      }
+    ],
+    "name": "Côte d'Ivoire",
+    "callingCodes": [
+      "225"
+    ],
+    "capital": "Yamoussoukro"
+  },
+  {
+    "currencies": [
+      {
+        "code": "IRR",
+        "name": "Iranian rial",
+        "symbol": "﷼"
+      }
+    ],
+    "name": "Iran (Islamic Republic of)",
+    "callingCodes": [
+      "98"
+    ],
+    "capital": "Tehran"
+  },
+  {
+    "currencies": [
+      {
+        "code": "IQD",
+        "name": "Iraqi dinar",
+        "symbol": "ع.د"
+      }
+    ],
+    "name": "Iraq",
+    "callingCodes": [
+      "964"
+    ],
+    "capital": "Baghdad"
+  },
+  {
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "name": "Ireland",
+    "callingCodes": [
+      "353"
+    ],
+    "capital": "Dublin"
+  },
+  {
+    "currencies": [
+      {
+        "code": "GBP",
+        "name": "British pound",
+        "symbol": "£"
+      },
+      {
+        "code": "IMP[G]",
+        "name": "Manx pound",
+        "symbol": "£"
+      }
+    ],
+    "name": "Isle of Man",
+    "callingCodes": [
+      "44"
+    ],
+    "capital": "Douglas"
+  },
+  {
+    "currencies": [
+      {
+        "code": "ILS",
+        "name": "Israeli new shekel",
+        "symbol": "₪"
+      }
+    ],
+    "name": "Israel",
+    "callingCodes": [
+      "972"
+    ],
+    "capital": "Jerusalem"
+  },
+  {
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "name": "Italy",
+    "callingCodes": [
+      "39"
+    ],
+    "capital": "Rome"
+  },
+  {
+    "currencies": [
+      {
+        "code": "JMD",
+        "name": "Jamaican dollar",
+        "symbol": "$"
+      }
+    ],
+    "name": "Jamaica",
+    "callingCodes": [
+      "1876"
+    ],
+    "capital": "Kingston"
+  },
+  {
+    "currencies": [
+      {
+        "code": "JPY",
+        "name": "Japanese yen",
+        "symbol": "¥"
+      }
+    ],
+    "name": "Japan",
+    "callingCodes": [
+      "81"
+    ],
+    "capital": "Tokyo"
+  },
+  {
+    "currencies": [
+      {
+        "code": "GBP",
+        "name": "British pound",
+        "symbol": "£"
+      },
+      {
+        "code": "JEP[G]",
+        "name": "Jersey pound",
+        "symbol": "£"
+      }
+    ],
+    "name": "Jersey",
+    "callingCodes": [
+      "44"
+    ],
+    "capital": "Saint Helier"
+  },
+  {
+    "currencies": [
+      {
+        "code": "JOD",
+        "name": "Jordanian dinar",
+        "symbol": "د.ا"
+      }
+    ],
+    "name": "Jordan",
+    "callingCodes": [
+      "962"
+    ],
+    "capital": "Amman"
+  },
+  {
+    "currencies": [
+      {
+        "code": "KZT",
+        "name": "Kazakhstani tenge"
+      }
+    ],
+    "name": "Kazakhstan",
+    "callingCodes": [
+      "76",
+      "77"
+    ],
+    "capital": "Astana"
+  },
+  {
+    "currencies": [
+      {
+        "code": "KES",
+        "name": "Kenyan shilling",
+        "symbol": "Sh"
+      }
+    ],
+    "name": "Kenya",
+    "callingCodes": [
+      "254"
+    ],
+    "capital": "Nairobi"
+  },
+  {
+    "currencies": [
+      {
+        "code": "AUD",
+        "name": "Australian dollar",
+        "symbol": "$"
+      },
+      {
+        "code": "(none)",
+        "name": "Kiribati dollar",
+        "symbol": "$"
+      }
+    ],
+    "name": "Kiribati",
+    "callingCodes": [
+      "686"
+    ],
+    "capital": "South Tarawa"
+  },
+  {
+    "currencies": [
+      {
+        "code": "KWD",
+        "name": "Kuwaiti dinar",
+        "symbol": "د.ك"
+      }
+    ],
+    "name": "Kuwait",
+    "callingCodes": [
+      "965"
+    ],
+    "capital": "Kuwait City"
+  },
+  {
+    "currencies": [
+      {
+        "code": "KGS",
+        "name": "Kyrgyzstani som",
+        "symbol": "с"
+      }
+    ],
+    "name": "Kyrgyzstan",
+    "callingCodes": [
+      "996"
+    ],
+    "capital": "Bishkek"
+  },
+  {
+    "currencies": [
+      {
+        "code": "LAK",
+        "name": "Lao kip",
+        "symbol": "₭"
+      }
+    ],
+    "name": "Lao People's Democratic Republic",
+    "callingCodes": [
+      "856"
+    ],
+    "capital": "Vientiane"
+  },
+  {
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "name": "Latvia",
+    "callingCodes": [
+      "371"
+    ],
+    "capital": "Riga"
+  },
+  {
+    "currencies": [
+      {
+        "code": "LBP",
+        "name": "Lebanese pound",
+        "symbol": "ل.ل"
+      }
+    ],
+    "name": "Lebanon",
+    "callingCodes": [
+      "961"
+    ],
+    "capital": "Beirut"
+  },
+  {
+    "currencies": [
+      {
+        "code": "LSL",
+        "name": "Lesotho loti",
+        "symbol": "L"
+      },
+      {
+        "code": "ZAR",
+        "name": "South African rand",
+        "symbol": "R"
+      }
+    ],
+    "name": "Lesotho",
+    "callingCodes": [
+      "266"
+    ],
+    "capital": "Maseru"
+  },
+  {
+    "currencies": [
+      {
+        "code": "LRD",
+        "name": "Liberian dollar",
+        "symbol": "$"
+      }
+    ],
+    "name": "Liberia",
+    "callingCodes": [
+      "231"
+    ],
+    "capital": "Monrovia"
+  },
+  {
+    "currencies": [
+      {
+        "code": "LYD",
+        "name": "Libyan dinar",
+        "symbol": "ل.د"
+      }
+    ],
+    "name": "Libya",
+    "callingCodes": [
+      "218"
+    ],
+    "capital": "Tripoli"
+  },
+  {
+    "currencies": [
+      {
+        "code": "CHF",
+        "name": "Swiss franc",
+        "symbol": "Fr"
+      }
+    ],
+    "name": "Liechtenstein",
+    "callingCodes": [
+      "423"
+    ],
+    "capital": "Vaduz"
+  },
+  {
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "name": "Lithuania",
+    "callingCodes": [
+      "370"
+    ],
+    "capital": "Vilnius"
+  },
+  {
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "name": "Luxembourg",
+    "callingCodes": [
+      "352"
+    ],
+    "capital": "Luxembourg"
+  },
+  {
+    "currencies": [
+      {
+        "code": "MOP",
+        "name": "Macanese pataca",
+        "symbol": "P"
+      }
+    ],
+    "name": "Macao",
+    "callingCodes": [
+      "853"
+    ],
+    "capital": ""
+  },
+  {
+    "currencies": [
+      {
+        "code": "MKD",
+        "name": "Macedonian denar",
+        "symbol": "ден"
+      }
+    ],
+    "name": "Macedonia (the former Yugoslav Republic of)",
+    "callingCodes": [
+      "389"
+    ],
+    "capital": "Skopje"
+  },
+  {
+    "currencies": [
+      {
+        "code": "MGA",
+        "name": "Malagasy ariary",
+        "symbol": "Ar"
+      }
+    ],
+    "name": "Madagascar",
+    "callingCodes": [
+      "261"
+    ],
+    "capital": "Antananarivo"
+  },
+  {
+    "currencies": [
+      {
+        "code": "MWK",
+        "name": "Malawian kwacha",
+        "symbol": "MK"
+      }
+    ],
+    "name": "Malawi",
+    "callingCodes": [
+      "265"
+    ],
+    "capital": "Lilongwe"
+  },
+  {
+    "currencies": [
+      {
+        "code": "MYR",
+        "name": "Malaysian ringgit",
+        "symbol": "RM"
+      }
+    ],
+    "name": "Malaysia",
+    "callingCodes": [
+      "60"
+    ],
+    "capital": "Kuala Lumpur"
+  },
+  {
+    "currencies": [
+      {
+        "code": "MVR",
+        "name": "Maldivian rufiyaa",
+        "symbol": ".ރ"
+      }
+    ],
+    "name": "Maldives",
+    "callingCodes": [
+      "960"
+    ],
+    "capital": "Malé"
+  },
+  {
+    "currencies": [
+      {
+        "code": "XOF",
+        "name": "West African CFA franc",
+        "symbol": "Fr"
+      }
+    ],
+    "name": "Mali",
+    "callingCodes": [
+      "223"
+    ],
+    "capital": "Bamako"
+  },
+  {
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "name": "Malta",
+    "callingCodes": [
+      "356"
+    ],
+    "capital": "Valletta"
+  },
+  {
+    "currencies": [
+      {
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    ],
+    "name": "Marshall Islands",
+    "callingCodes": [
+      "692"
+    ],
+    "capital": "Majuro"
+  },
+  {
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "name": "Martinique",
+    "callingCodes": [
+      "596"
+    ],
+    "capital": "Fort-de-France"
+  },
+  {
+    "currencies": [
+      {
+        "code": "MRO",
+        "name": "Mauritanian ouguiya",
+        "symbol": "UM"
+      }
+    ],
+    "name": "Mauritania",
+    "callingCodes": [
+      "222"
+    ],
+    "capital": "Nouakchott"
+  },
+  {
+    "currencies": [
+      {
+        "code": "MUR",
+        "name": "Mauritian rupee",
+        "symbol": "₨"
+      }
+    ],
+    "name": "Mauritius",
+    "callingCodes": [
+      "230"
+    ],
+    "capital": "Port Louis"
+  },
+  {
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "name": "Mayotte",
+    "callingCodes": [
+      "262"
+    ],
+    "capital": "Mamoudzou"
+  },
+  {
+    "currencies": [
+      {
+        "code": "MXN",
+        "name": "Mexican peso",
+        "symbol": "$"
+      }
+    ],
+    "name": "Mexico",
+    "callingCodes": [
+      "52"
+    ],
+    "capital": "Mexico City"
+  },
+  {
+    "currencies": [
+      {
+        "name": "[D]",
+        "symbol": "$"
+      },
+      {
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    ],
+    "name": "Micronesia (Federated States of)",
+    "callingCodes": [
+      "691"
+    ],
+    "capital": "Palikir"
+  },
+  {
+    "currencies": [
+      {
+        "code": "MDL",
+        "name": "Moldovan leu",
+        "symbol": "L"
+      }
+    ],
+    "name": "Moldova (Republic of)",
+    "callingCodes": [
+      "373"
+    ],
+    "capital": "Chișinău"
+  },
+  {
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "name": "Monaco",
+    "callingCodes": [
+      "377"
+    ],
+    "capital": "Monaco"
+  },
+  {
+    "currencies": [
+      {
+        "code": "MNT",
+        "name": "Mongolian tögrög",
+        "symbol": "₮"
+      }
+    ],
+    "name": "Mongolia",
+    "callingCodes": [
+      "976"
+    ],
+    "capital": "Ulan Bator"
+  },
+  {
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "name": "Montenegro",
+    "callingCodes": [
+      "382"
+    ],
+    "capital": "Podgorica"
+  },
+  {
+    "currencies": [
+      {
+        "code": "XCD",
+        "name": "East Caribbean dollar",
+        "symbol": "$"
+      }
+    ],
+    "name": "Montserrat",
+    "callingCodes": [
+      "1664"
+    ],
+    "capital": "Plymouth"
+  },
+  {
+    "currencies": [
+      {
+        "code": "MAD",
+        "name": "Moroccan dirham",
+        "symbol": "د.م."
+      }
+    ],
+    "name": "Morocco",
+    "callingCodes": [
+      "212"
+    ],
+    "capital": "Rabat"
+  },
+  {
+    "currencies": [
+      {
+        "code": "MZN",
+        "name": "Mozambican metical",
+        "symbol": "MT"
+      }
+    ],
+    "name": "Mozambique",
+    "callingCodes": [
+      "258"
+    ],
+    "capital": "Maputo"
+  },
+  {
+    "currencies": [
+      {
+        "code": "MMK",
+        "name": "Burmese kyat",
+        "symbol": "Ks"
+      }
+    ],
+    "name": "Myanmar",
+    "callingCodes": [
+      "95"
+    ],
+    "capital": "Naypyidaw"
+  },
+  {
+    "currencies": [
+      {
+        "code": "NAD",
+        "name": "Namibian dollar",
+        "symbol": "$"
+      },
+      {
+        "code": "ZAR",
+        "name": "South African rand",
+        "symbol": "R"
+      }
+    ],
+    "name": "Namibia",
+    "callingCodes": [
+      "264"
+    ],
+    "capital": "Windhoek"
+  },
+  {
+    "currencies": [
+      {
+        "code": "AUD",
+        "name": "Australian dollar",
+        "symbol": "$"
+      },
+      {
+        "code": "(none)",
+        "symbol": "$"
+      }
+    ],
+    "name": "Nauru",
+    "callingCodes": [
+      "674"
+    ],
+    "capital": "Yaren"
+  },
+  {
+    "currencies": [
+      {
+        "code": "NPR",
+        "name": "Nepalese rupee",
+        "symbol": "₨"
+      }
+    ],
+    "name": "Nepal",
+    "callingCodes": [
+      "977"
+    ],
+    "capital": "Kathmandu"
+  },
+  {
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "name": "Netherlands",
+    "callingCodes": [
+      "31"
+    ],
+    "capital": "Amsterdam"
+  },
+  {
+    "currencies": [
+      {
+        "code": "XPF",
+        "name": "CFP franc",
+        "symbol": "Fr"
+      }
+    ],
+    "name": "New Caledonia",
+    "callingCodes": [
+      "687"
+    ],
+    "capital": "Nouméa"
+  },
+  {
+    "currencies": [
+      {
+        "code": "NZD",
+        "name": "New Zealand dollar",
+        "symbol": "$"
+      }
+    ],
+    "name": "New Zealand",
+    "callingCodes": [
+      "64"
+    ],
+    "capital": "Wellington"
+  },
+  {
+    "currencies": [
+      {
+        "code": "NIO",
+        "name": "Nicaraguan córdoba",
+        "symbol": "C$"
+      }
+    ],
+    "name": "Nicaragua",
+    "callingCodes": [
+      "505"
+    ],
+    "capital": "Managua"
+  },
+  {
+    "currencies": [
+      {
+        "code": "XOF",
+        "name": "West African CFA franc",
+        "symbol": "Fr"
+      }
+    ],
+    "name": "Niger",
+    "callingCodes": [
+      "227"
+    ],
+    "capital": "Niamey"
+  },
+  {
+    "currencies": [
+      {
+        "code": "NGN",
+        "name": "Nigerian naira",
+        "symbol": "₦"
+      }
+    ],
+    "name": "Nigeria",
+    "callingCodes": [
+      "234"
+    ],
+    "capital": "Abuja"
+  },
+  {
+    "currencies": [
+      {
+        "code": "NZD",
+        "name": "New Zealand dollar",
+        "symbol": "$"
+      },
+      {
+        "code": "(none)",
+        "name": "Niue dollar",
+        "symbol": "$"
+      }
+    ],
+    "name": "Niue",
+    "callingCodes": [
+      "683"
+    ],
+    "capital": "Alofi"
+  },
+  {
+    "currencies": [
+      {
+        "code": "AUD",
+        "name": "Australian dollar",
+        "symbol": "$"
+      }
+    ],
+    "name": "Norfolk Island",
+    "callingCodes": [
+      "672"
+    ],
+    "capital": "Kingston"
+  },
+  {
+    "currencies": [
+      {
+        "code": "KPW",
+        "name": "North Korean won",
+        "symbol": "₩"
+      }
+    ],
+    "name": "Korea (Democratic People's Republic of)",
+    "callingCodes": [
+      "850"
+    ],
+    "capital": "Pyongyang"
+  },
+  {
+    "currencies": [
+      {
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    ],
+    "name": "Northern Mariana Islands",
+    "callingCodes": [
+      "1670"
+    ],
+    "capital": "Saipan"
+  },
+  {
+    "currencies": [
+      {
+        "code": "NOK",
+        "name": "Norwegian krone",
+        "symbol": "kr"
+      }
+    ],
+    "name": "Norway",
+    "callingCodes": [
+      "47"
+    ],
+    "capital": "Oslo"
+  },
+  {
+    "currencies": [
+      {
+        "code": "OMR",
+        "name": "Omani rial",
+        "symbol": "ر.ع."
+      }
+    ],
+    "name": "Oman",
+    "callingCodes": [
+      "968"
+    ],
+    "capital": "Muscat"
+  },
+  {
+    "currencies": [
+      {
+        "code": "PKR",
+        "name": "Pakistani rupee",
+        "symbol": "₨"
+      }
+    ],
+    "name": "Pakistan",
+    "callingCodes": [
+      "92"
+    ],
+    "capital": "Islamabad"
+  },
+  {
+    "currencies": [
+      {
+        "code": "(none)",
+        "name": "[E]",
+        "symbol": "$"
+      },
+      {
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    ],
+    "name": "Palau",
+    "callingCodes": [
+      "680"
+    ],
+    "capital": "Ngerulmud"
+  },
+  {
+    "currencies": [
+      {
+        "code": "ILS",
+        "name": "Israeli new sheqel",
+        "symbol": "₪"
+      }
+    ],
+    "name": "Palestine, State of",
+    "callingCodes": [
+      "970"
+    ],
+    "capital": "Ramallah"
+  },
+  {
+    "currencies": [
+      {
+        "code": "PAB",
+        "name": "Panamanian balboa",
+        "symbol": "B/."
+      },
+      {
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    ],
+    "name": "Panama",
+    "callingCodes": [
+      "507"
+    ],
+    "capital": "Panama City"
+  },
+  {
+    "currencies": [
+      {
+        "code": "PGK",
+        "name": "Papua New Guinean kina",
+        "symbol": "K"
+      }
+    ],
+    "name": "Papua New Guinea",
+    "callingCodes": [
+      "675"
+    ],
+    "capital": "Port Moresby"
+  },
+  {
+    "currencies": [
+      {
+        "code": "PYG",
+        "name": "Paraguayan guaraní",
+        "symbol": "₲"
+      }
+    ],
+    "name": "Paraguay",
+    "callingCodes": [
+      "595"
+    ],
+    "capital": "Asunción"
+  },
+  {
+    "currencies": [
+      {
+        "code": "PEN",
+        "name": "Peruvian sol",
+        "symbol": "S/."
+      }
+    ],
+    "name": "Peru",
+    "callingCodes": [
+      "51"
+    ],
+    "capital": "Lima"
+  },
+  {
+    "currencies": [
+      {
+        "code": "PHP",
+        "name": "Philippine peso",
+        "symbol": "₱"
+      }
+    ],
+    "name": "Philippines",
+    "callingCodes": [
+      "63"
+    ],
+    "capital": "Manila"
+  },
+  {
+    "currencies": [
+      {
+        "code": "NZD",
+        "name": "New Zealand dollar",
+        "symbol": "$"
+      },
+      {
+        "name": "Pitcairn Islands dollar",
+        "symbol": "$"
+      }
+    ],
+    "name": "Pitcairn",
+    "callingCodes": [
+      "64"
+    ],
+    "capital": "Adamstown"
+  },
+  {
+    "currencies": [
+      {
+        "code": "PLN",
+        "name": "Polish złoty",
+        "symbol": "zł"
+      }
+    ],
+    "name": "Poland",
+    "callingCodes": [
+      "48"
+    ],
+    "capital": "Warsaw"
+  },
+  {
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "name": "Portugal",
+    "callingCodes": [
+      "351"
+    ],
+    "capital": "Lisbon"
+  },
+  {
+    "currencies": [
+      {
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    ],
+    "name": "Puerto Rico",
+    "callingCodes": [
+      "1787",
+      "1939"
+    ],
+    "capital": "San Juan"
+  },
+  {
+    "currencies": [
+      {
+        "code": "QAR",
+        "name": "Qatari riyal",
+        "symbol": "ر.ق"
+      }
+    ],
+    "name": "Qatar",
+    "callingCodes": [
+      "974"
+    ],
+    "capital": "Doha"
+  },
+  {
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "name": "Republic of Kosovo",
+    "callingCodes": [
+      "383"
+    ],
+    "capital": "Pristina"
+  },
+  {
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "name": "Réunion",
+    "callingCodes": [
+      "262"
+    ],
+    "capital": "Saint-Denis"
+  },
+  {
+    "currencies": [
+      {
+        "code": "RON",
+        "name": "Romanian leu",
+        "symbol": "lei"
+      }
+    ],
+    "name": "Romania",
+    "callingCodes": [
+      "40"
+    ],
+    "capital": "Bucharest"
+  },
+  {
+    "currencies": [
+      {
+        "code": "RUB",
+        "name": "Russian ruble",
+        "symbol": "₽"
+      }
+    ],
+    "name": "Russian Federation",
+    "callingCodes": [
+      "7"
+    ],
+    "capital": "Moscow"
+  },
+  {
+    "currencies": [
+      {
+        "code": "RWF",
+        "name": "Rwandan franc",
+        "symbol": "Fr"
+      }
+    ],
+    "name": "Rwanda",
+    "callingCodes": [
+      "250"
+    ],
+    "capital": "Kigali"
+  },
+  {
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "name": "Saint Barthélemy",
+    "callingCodes": [
+      "590"
+    ],
+    "capital": "Gustavia"
+  },
+  {
+    "currencies": [
+      {
+        "code": "SHP",
+        "name": "Saint Helena pound",
+        "symbol": "£"
+      }
+    ],
+    "name": "Saint Helena, Ascension and Tristan da Cunha",
+    "callingCodes": [
+      "290"
+    ],
+    "capital": "Jamestown"
+  },
+  {
+    "currencies": [
+      {
+        "code": "XCD",
+        "name": "East Caribbean dollar",
+        "symbol": "$"
+      }
+    ],
+    "name": "Saint Kitts and Nevis",
+    "callingCodes": [
+      "1869"
+    ],
+    "capital": "Basseterre"
+  },
+  {
+    "currencies": [
+      {
+        "code": "XCD",
+        "name": "East Caribbean dollar",
+        "symbol": "$"
+      }
+    ],
+    "name": "Saint Lucia",
+    "callingCodes": [
+      "1758"
+    ],
+    "capital": "Castries"
+  },
+  {
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "name": "Saint Martin (French part)",
+    "callingCodes": [
+      "590"
+    ],
+    "capital": "Marigot"
+  },
+  {
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "name": "Saint Pierre and Miquelon",
+    "callingCodes": [
+      "508"
+    ],
+    "capital": "Saint-Pierre"
+  },
+  {
+    "currencies": [
+      {
+        "code": "XCD",
+        "name": "East Caribbean dollar",
+        "symbol": "$"
+      }
+    ],
+    "name": "Saint Vincent and the Grenadines",
+    "callingCodes": [
+      "1784"
+    ],
+    "capital": "Kingstown"
+  },
+  {
+    "currencies": [
+      {
+        "code": "WST",
+        "name": "Samoan tālā",
+        "symbol": "T"
+      }
+    ],
+    "name": "Samoa",
+    "callingCodes": [
+      "685"
+    ],
+    "capital": "Apia"
+  },
+  {
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "name": "San Marino",
+    "callingCodes": [
+      "378"
+    ],
+    "capital": "City of San Marino"
+  },
+  {
+    "currencies": [
+      {
+        "code": "STD",
+        "name": "São Tomé and Príncipe dobra",
+        "symbol": "Db"
+      }
+    ],
+    "name": "Sao Tome and Principe",
+    "callingCodes": [
+      "239"
+    ],
+    "capital": "São Tomé"
+  },
+  {
+    "currencies": [
+      {
+        "code": "SAR",
+        "name": "Saudi riyal",
+        "symbol": "ر.س"
+      }
+    ],
+    "name": "Saudi Arabia",
+    "callingCodes": [
+      "966"
+    ],
+    "capital": "Riyadh"
+  },
+  {
+    "currencies": [
+      {
+        "code": "XOF",
+        "name": "West African CFA franc",
+        "symbol": "Fr"
+      }
+    ],
+    "name": "Senegal",
+    "callingCodes": [
+      "221"
+    ],
+    "capital": "Dakar"
+  },
+  {
+    "currencies": [
+      {
+        "code": "RSD",
+        "name": "Serbian dinar",
+        "symbol": "дин."
+      }
+    ],
+    "name": "Serbia",
+    "callingCodes": [
+      "381"
+    ],
+    "capital": "Belgrade"
+  },
+  {
+    "currencies": [
+      {
+        "code": "SCR",
+        "name": "Seychellois rupee",
+        "symbol": "₨"
+      }
+    ],
+    "name": "Seychelles",
+    "callingCodes": [
+      "248"
+    ],
+    "capital": "Victoria"
+  },
+  {
+    "currencies": [
+      {
+        "code": "SLL",
+        "name": "Sierra Leonean leone",
+        "symbol": "Le"
+      }
+    ],
+    "name": "Sierra Leone",
+    "callingCodes": [
+      "232"
+    ],
+    "capital": "Freetown"
+  },
+  {
+    "currencies": [
+      {
+        "code": "BND",
+        "name": "Brunei dollar",
+        "symbol": "$"
+      },
+      {
+        "code": "SGD",
+        "name": "Singapore dollar",
+        "symbol": "$"
+      }
+    ],
+    "name": "Singapore",
+    "callingCodes": [
+      "65"
+    ],
+    "capital": "Singapore"
+  },
+  {
+    "currencies": [
+      {
+        "code": "ANG",
+        "name": "Netherlands Antillean guilder",
+        "symbol": "ƒ"
+      }
+    ],
+    "name": "Sint Maarten (Dutch part)",
+    "callingCodes": [
+      "1721"
+    ],
+    "capital": "Philipsburg"
+  },
+  {
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "name": "Slovakia",
+    "callingCodes": [
+      "421"
+    ],
+    "capital": "Bratislava"
+  },
+  {
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "name": "Slovenia",
+    "callingCodes": [
+      "386"
+    ],
+    "capital": "Ljubljana"
+  },
+  {
+    "currencies": [
+      {
+        "code": "SBD",
+        "name": "Solomon Islands dollar",
+        "symbol": "$"
+      }
+    ],
+    "name": "Solomon Islands",
+    "callingCodes": [
+      "677"
+    ],
+    "capital": "Honiara"
+  },
+  {
+    "currencies": [
+      {
+        "code": "SOS",
+        "name": "Somali shilling",
+        "symbol": "Sh"
+      }
+    ],
+    "name": "Somalia",
+    "callingCodes": [
+      "252"
+    ],
+    "capital": "Mogadishu"
+  },
+  {
+    "currencies": [
+      {
+        "code": "ZAR",
+        "name": "South African rand",
+        "symbol": "R"
+      }
+    ],
+    "name": "South Africa",
+    "callingCodes": [
+      "27"
+    ],
+    "capital": "Pretoria"
+  },
+  {
+    "currencies": [
+      {
+        "code": "GBP",
+        "name": "British pound",
+        "symbol": "£"
+      },
+      {
+        "code": "(none)",
+        "symbol": "£"
+      }
+    ],
+    "name": "South Georgia and the South Sandwich Islands",
+    "callingCodes": [
+      "500"
+    ],
+    "capital": "King Edward Point"
+  },
+  {
+    "currencies": [
+      {
+        "code": "KRW",
+        "name": "South Korean won",
+        "symbol": "₩"
+      }
+    ],
+    "name": "Korea (Republic of)",
+    "callingCodes": [
+      "82"
+    ],
+    "capital": "Seoul"
+  },
+  {
+    "currencies": [
+      {
+        "code": "SSP",
+        "name": "South Sudanese pound",
+        "symbol": "£"
+      }
+    ],
+    "name": "South Sudan",
+    "callingCodes": [
+      "211"
+    ],
+    "capital": "Juba"
+  },
+  {
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "name": "Spain",
+    "callingCodes": [
+      "34"
+    ],
+    "capital": "Madrid"
+  },
+  {
+    "currencies": [
+      {
+        "code": "LKR",
+        "name": "Sri Lankan rupee",
+        "symbol": "Rs"
+      }
+    ],
+    "name": "Sri Lanka",
+    "callingCodes": [
+      "94"
+    ],
+    "capital": "Colombo"
+  },
+  {
+    "currencies": [
+      {
+        "code": "SDG",
+        "name": "Sudanese pound",
+        "symbol": "ج.س."
+      }
+    ],
+    "name": "Sudan",
+    "callingCodes": [
+      "249"
+    ],
+    "capital": "Khartoum"
+  },
+  {
+    "currencies": [
+      {
+        "code": "SRD",
+        "name": "Surinamese dollar",
+        "symbol": "$"
+      }
+    ],
+    "name": "Suriname",
+    "callingCodes": [
+      "597"
+    ],
+    "capital": "Paramaribo"
+  },
+  {
+    "currencies": [
+      {
+        "code": "NOK",
+        "name": "Norwegian krone",
+        "symbol": "kr"
+      }
+    ],
+    "name": "Svalbard and Jan Mayen",
+    "callingCodes": [
+      "4779"
+    ],
+    "capital": "Longyearbyen"
+  },
+  {
+    "currencies": [
+      {
+        "code": "SZL",
+        "name": "Swazi lilangeni",
+        "symbol": "L"
+      }
+    ],
+    "name": "Swaziland",
+    "callingCodes": [
+      "268"
+    ],
+    "capital": "Lobamba"
+  },
+  {
+    "currencies": [
+      {
+        "code": "SEK",
+        "name": "Swedish krona",
+        "symbol": "kr"
+      }
+    ],
+    "name": "Sweden",
+    "callingCodes": [
+      "46"
+    ],
+    "capital": "Stockholm"
+  },
+  {
+    "currencies": [
+      {
+        "code": "CHF",
+        "name": "Swiss franc",
+        "symbol": "Fr"
+      }
+    ],
+    "name": "Switzerland",
+    "callingCodes": [
+      "41"
+    ],
+    "capital": "Bern"
+  },
+  {
+    "currencies": [
+      {
+        "code": "SYP",
+        "name": "Syrian pound",
+        "symbol": "£"
+      }
+    ],
+    "name": "Syrian Arab Republic",
+    "callingCodes": [
+      "963"
+    ],
+    "capital": "Damascus"
+  },
+  {
+    "currencies": [
+      {
+        "code": "TWD",
+        "name": "New Taiwan dollar",
+        "symbol": "$"
+      }
+    ],
+    "name": "Taiwan",
+    "callingCodes": [
+      "886"
+    ],
+    "capital": "Taipei"
+  },
+  {
+    "currencies": [
+      {
+        "code": "TJS",
+        "name": "Tajikistani somoni",
+        "symbol": "ЅМ"
+      }
+    ],
+    "name": "Tajikistan",
+    "callingCodes": [
+      "992"
+    ],
+    "capital": "Dushanbe"
+  },
+  {
+    "currencies": [
+      {
+        "code": "TZS",
+        "name": "Tanzanian shilling",
+        "symbol": "Sh"
+      }
+    ],
+    "name": "Tanzania, United Republic of",
+    "callingCodes": [
+      "255"
+    ],
+    "capital": "Dodoma"
+  },
+  {
+    "currencies": [
+      {
+        "code": "THB",
+        "name": "Thai baht",
+        "symbol": "฿"
+      }
+    ],
+    "name": "Thailand",
+    "callingCodes": [
+      "66"
+    ],
+    "capital": "Bangkok"
+  },
+  {
+    "currencies": [
+      {
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      },
+      {}
+    ],
+    "name": "Timor-Leste",
+    "callingCodes": [
+      "670"
+    ],
+    "capital": "Dili"
+  },
+  {
+    "currencies": [
+      {
+        "code": "XOF",
+        "name": "West African CFA franc",
+        "symbol": "Fr"
+      }
+    ],
+    "name": "Togo",
+    "callingCodes": [
+      "228"
+    ],
+    "capital": "Lomé"
+  },
+  {
+    "currencies": [
+      {
+        "code": "NZD",
+        "name": "New Zealand dollar",
+        "symbol": "$"
+      }
+    ],
+    "name": "Tokelau",
+    "callingCodes": [
+      "690"
+    ],
+    "capital": "Fakaofo"
+  },
+  {
+    "currencies": [
+      {
+        "code": "TOP",
+        "name": "Tongan paʻanga",
+        "symbol": "T$"
+      }
+    ],
+    "name": "Tonga",
+    "callingCodes": [
+      "676"
+    ],
+    "capital": "Nuku'alofa"
+  },
+  {
+    "currencies": [
+      {
+        "code": "TTD",
+        "name": "Trinidad and Tobago dollar",
+        "symbol": "$"
+      }
+    ],
+    "name": "Trinidad and Tobago",
+    "callingCodes": [
+      "1868"
+    ],
+    "capital": "Port of Spain"
+  },
+  {
+    "currencies": [
+      {
+        "code": "TND",
+        "name": "Tunisian dinar",
+        "symbol": "د.ت"
+      }
+    ],
+    "name": "Tunisia",
+    "callingCodes": [
+      "216"
+    ],
+    "capital": "Tunis"
+  },
+  {
+    "currencies": [
+      {
+        "code": "TRY",
+        "name": "Turkish lira"
+      }
+    ],
+    "name": "Turkey",
+    "callingCodes": [
+      "90"
+    ],
+    "capital": "Ankara"
+  },
+  {
+    "currencies": [
+      {
+        "code": "TMT",
+        "name": "Turkmenistan manat",
+        "symbol": "m"
+      }
+    ],
+    "name": "Turkmenistan",
+    "callingCodes": [
+      "993"
+    ],
+    "capital": "Ashgabat"
+  },
+  {
+    "currencies": [
+      {
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    ],
+    "name": "Turks and Caicos Islands",
+    "callingCodes": [
+      "1649"
+    ],
+    "capital": "Cockburn Town"
+  },
+  {
+    "currencies": [
+      {
+        "code": "AUD",
+        "name": "Australian dollar",
+        "symbol": "$"
+      },
+      {
+        "code": "TVD[G]",
+        "name": "Tuvaluan dollar",
+        "symbol": "$"
+      }
+    ],
+    "name": "Tuvalu",
+    "callingCodes": [
+      "688"
+    ],
+    "capital": "Funafuti"
+  },
+  {
+    "currencies": [
+      {
+        "code": "UGX",
+        "name": "Ugandan shilling",
+        "symbol": "Sh"
+      }
+    ],
+    "name": "Uganda",
+    "callingCodes": [
+      "256"
+    ],
+    "capital": "Kampala"
+  },
+  {
+    "currencies": [
+      {
+        "code": "UAH",
+        "name": "Ukrainian hryvnia",
+        "symbol": "₴"
+      }
+    ],
+    "name": "Ukraine",
+    "callingCodes": [
+      "380"
+    ],
+    "capital": "Kiev"
+  },
+  {
+    "currencies": [
+      {
+        "code": "AED",
+        "name": "United Arab Emirates dirham",
+        "symbol": "د.إ"
+      }
+    ],
+    "name": "United Arab Emirates",
+    "callingCodes": [
+      "971"
+    ],
+    "capital": "Abu Dhabi"
+  },
+  {
+    "currencies": [
+      {
+        "code": "GBP",
+        "name": "British pound",
+        "symbol": "£"
+      }
+    ],
+    "name": "United Kingdom of Great Britain and Northern Ireland",
+    "callingCodes": [
+      "44"
+    ],
+    "capital": "London"
+  },
+  {
+    "currencies": [
+      {
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    ],
+    "name": "United States of America",
+    "callingCodes": [
+      "1"
+    ],
+    "capital": "Washington, D.C."
+  },
+  {
+    "currencies": [
+      {
+        "code": "UYU",
+        "name": "Uruguayan peso",
+        "symbol": "$"
+      }
+    ],
+    "name": "Uruguay",
+    "callingCodes": [
+      "598"
+    ],
+    "capital": "Montevideo"
+  },
+  {
+    "currencies": [
+      {
+        "code": "UZS",
+        "name": "Uzbekistani so'm"
+      }
+    ],
+    "name": "Uzbekistan",
+    "callingCodes": [
+      "998"
+    ],
+    "capital": "Tashkent"
+  },
+  {
+    "currencies": [
+      {
+        "code": "VUV",
+        "name": "Vanuatu vatu",
+        "symbol": "Vt"
+      }
+    ],
+    "name": "Vanuatu",
+    "callingCodes": [
+      "678"
+    ],
+    "capital": "Port Vila"
+  },
+  {
+    "currencies": [
+      {
+        "code": "VEF",
+        "name": "Venezuelan bolívar",
+        "symbol": "Bs F"
+      }
+    ],
+    "name": "Venezuela (Bolivarian Republic of)",
+    "callingCodes": [
+      "58"
+    ],
+    "capital": "Caracas"
+  },
+  {
+    "currencies": [
+      {
+        "code": "VND",
+        "name": "Vietnamese đồng",
+        "symbol": "₫"
+      }
+    ],
+    "name": "Viet Nam",
+    "callingCodes": [
+      "84"
+    ],
+    "capital": "Hanoi"
+  },
+  {
+    "currencies": [
+      {
+        "code": "XPF",
+        "name": "CFP franc",
+        "symbol": "Fr"
+      }
+    ],
+    "name": "Wallis and Futuna",
+    "callingCodes": [
+      "681"
+    ],
+    "capital": "Mata-Utu"
+  },
+  {
+    "currencies": [
+      {
+        "code": "MAD",
+        "name": "Moroccan dirham",
+        "symbol": "د.م."
+      },
+      {
+        "code": "DZD",
+        "name": "Algerian dinar",
+        "symbol": "د.ج"
+      }
+    ],
+    "name": "Western Sahara",
+    "callingCodes": [
+      "212"
+    ],
+    "capital": "El Aaiún"
+  },
+  {
+    "currencies": [
+      {
+        "code": "YER",
+        "name": "Yemeni rial",
+        "symbol": "﷼"
+      }
+    ],
+    "name": "Yemen",
+    "callingCodes": [
+      "967"
+    ],
+    "capital": "Sana'a"
+  },
+  {
+    "currencies": [
+      {
+        "code": "ZMW",
+        "name": "Zambian kwacha",
+        "symbol": "ZK"
+      }
+    ],
+    "name": "Zambia",
+    "callingCodes": [
+      "260"
+    ],
+    "capital": "Lusaka"
+  },
+  {
+    "currencies": [
+      {
+        "code": "BWP",
+        "name": "Botswana pula",
+        "symbol": "P"
+      },
+      {
+        "code": "GBP",
+        "name": "British pound",
+        "symbol": "£"
+      },
+      {
+        "code": "CNY",
+        "name": "Chinese yuan",
+        "symbol": "¥"
+      },
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      },
+      {
+        "code": "INR",
+        "name": "Indian rupee",
+        "symbol": "₹"
+      },
+      {
+        "code": "JPY",
+        "name": "Japanese yen",
+        "symbol": "¥"
+      },
+      {
+        "code": "ZAR",
+        "name": "South African rand",
+        "symbol": "Rs"
+      },
+      {
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      },
+      {
+        "code": "(none)"
+      }
+    ],
+    "name": "Zimbabwe",
+    "callingCodes": [
+      "263"
+    ],
+    "capital": "Harare"
+  }
+]
