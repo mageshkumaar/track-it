@@ -1,0 +1,10 @@
+{
+  "user.login.failed": "Login failed.",
+  "user.logout.failed": "Logout failed.",
+  "user.logout.success": "Logout Successful.",
+  "user.auth.failed": "Authorization failed.",
+  "user.already.loggedin": "User already logged in.",
+  "resource.not.found": "Resource not found.",
+  "server.error": "Server error occurred.",
+  "user.already.exists": "Email already exists."
+}

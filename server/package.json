@@ -1,0 +1,41 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Back-end for track-it Asset Management system",
+  "main": "app.js",
+  "scripts": {
+    "start": "node_modules/.bin/nodemon app.js --exec \"npm run lint && node\"",
+    "lint": "node_modules/.bin/eslint app.js src/**/*.js",
+    "test": "export NODE_ENV=test || SET NODE_ENV=test && node_modules/.bin/mocha test/**/*.test.js --exit",
+    "test-cover": "export NODE_ENV=test || SET NODE_ENV=test && node_modules/.bin/nyc node_modules/.bin/mocha test/**/*.test.js --exit"
+  },
+  "keywords": [],
+  "author": "Magesh Kumaar",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^3.0.0",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "i18n": "^0.8.3",
+    "jsonwebtoken": "^8.3.0",
+    "mongoose": "^5.2.9",
+    "morgan": "^1.9.0",
+    "redis": "^2.8.0"
+  },
+  "devDependencies": {
+    "assert": "^1.4.1",
+    "chai": "^4.1.2",
+    "eslint": "^5.4.0",
+    "eslint-config-standard": "^11.0.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-node": "^7.0.1",
+    "eslint-plugin-promise": "^4.0.0",
+    "eslint-plugin-standard": "^3.1.0",
+    "expect": "^23.5.0",
+    "faker": "^4.1.0",
+    "jest": "^23.5.0",
+    "mocha": "^5.2.0",
+    "nyc": "^12.0.2",
+    "supertest": "^3.1.0"
+  }
+}

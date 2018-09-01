@@ -1,5 +1,4 @@
-server/package-lock.json
-server/.gitignore
-logs
-.vscode/settings.json
 node_modules
+logs
+.nyc_output
+.vscode

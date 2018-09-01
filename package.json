@@ -1,0 +1,16 @@
+{
+  "name": "track-it",
+  "version": "1.0.0",
+  "description": "An Open source IT/Asset Management System",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Magesh Kumaar",
+  "license": "ISC",
+  "dependencies": {
+    "i18n": "^0.8.3",
+    "joi": "^13.6.0",
+    "winston": "^3.0.0"
+  }
+}
