@@ -10,7 +10,7 @@ const categoryRouter = require('./src/routes/category')
 const authMiddleware = require('./src/middlewares/auth')
 
 // Starting up the database
-mongoose.connect(config.database.uri, (err) => {
+mongoose.connect(config.database.uri, config.database.options, (err) => {
   if (err) {
     logger.error(err.stack)
   } else {
