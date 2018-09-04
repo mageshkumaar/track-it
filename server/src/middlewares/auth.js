@@ -26,7 +26,7 @@ const authMiddleware = async (req, res, next) => {
     }
     // Get the user from the token
     let currentUser = await getUserFromToken(token)
-    if (currentUser === undefined) {
+    if (currentUser === undefined || currentUser === null) {
       throw new Error('Invalid Token')
     } else {
       // Check whether the user is trying to access unauthorized url
@@ -85,10 +85,10 @@ const getUserFromToken = async (token) => {
   let user
   try {
     const payload = jwt.verify(token, config.jwt.secret_key, config.jwt.options)
-    const userByToken = await User.findById(payload.id)
-    if (!userByToken.token.includes(token)) {
-      throw new Error('Token not available in the user')
+    if (payload.id === null || payload.id === undefined) {
+      throw new Error('User information not available in the token')
     }
+    const userByToken = await User.findById(payload.id)
     user = userByToken.toJSON()
   } catch (e) {
     logger.error(e.stack)

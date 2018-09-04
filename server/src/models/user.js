@@ -25,17 +25,13 @@ const UserSchema = mongoose.Schema({
   updated_at: {
     type: Date,
     required: true
-  },
-  token: [{
-    type: String
-  }]
+  }
 })
 
 UserSchema.set('toJSON', {
   transform: (doc, ret, options) => {
     delete ret.__v
     delete ret._id
-    delete ret.token
     delete ret.password
     ret.id = doc._id
   }
