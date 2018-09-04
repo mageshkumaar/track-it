@@ -1,6 +1,6 @@
 const mongoose = require('mongoose')
 
-const CategorySchema = mongoose.Schema({
+const DepartmentSchema = mongoose.Schema({
   name: {
     type: String,
     required: true
@@ -10,6 +10,15 @@ const CategorySchema = mongoose.Schema({
     required: true,
     ref: 'User'
   },
+  manager: {
+    type: mongoose.Schema.Types.ObjectId,
+    ref: 'User',
+    required: true
+  },
+  members: [{
+    type: mongoose.Schema.Types.ObjectId,
+    ref: 'User'
+  }],
   created_at: {
     type: Date,
     required: true
@@ -20,7 +29,7 @@ const CategorySchema = mongoose.Schema({
   }
 })
 
-CategorySchema.set('toJSON', {
+DepartmentSchema.set('toJSON', {
   transform: (doc, ret, options) => {
     delete ret.__v
     delete ret._id
@@ -28,4 +37,4 @@ CategorySchema.set('toJSON', {
   }
 })
 
-module.exports = mongoose.model('Category', CategorySchema, 'categories')
+module.exports = mongoose.model('Department', DepartmentSchema, 'departments')

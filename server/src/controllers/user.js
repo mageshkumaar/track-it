@@ -3,6 +3,7 @@ const i18n = require('i18n')
 const logger = require('../../../shared/logger')
 const mongoose = require('mongoose')
 const bcrypt = require('bcrypt')
+const time = require('../utils/time')
 
 const bcryptSaltRounds = 10
 
@@ -17,7 +18,7 @@ const create = async (req, res) => {
       })
     }
     const hashedPassword = await bcrypt.hash(req.body.password, bcryptSaltRounds)
-    const currentTime = new Date(Date.now()).toISOString()
+    const currentTime = time.currentTime()
     let newUser = new User({
       firstname: req.body.firstname,
       lastname: req.body.lastname,

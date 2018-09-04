@@ -7,6 +7,7 @@ const authRouter = require('./src/routes/auth')
 const userRouter = require('./src/routes/user')
 const manufacturerRouter = require('./src/routes/manufacturer')
 const categoryRouter = require('./src/routes/category')
+const departmentRouter = require('./src/routes/department')
 const authMiddleware = require('./src/middlewares/auth')
 
 // Starting up the database
@@ -40,6 +41,7 @@ app.use(authRouter)
 app.use('/users', userRouter)
 app.use('/manufacturers', manufacturerRouter)
 app.use('/categories', categoryRouter)
+app.use('/departments', departmentRouter)
 
 // Starting the server
 app.listen(config.app.port.backend, () => {

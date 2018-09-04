@@ -1,17 +1,16 @@
 const mongoose = require('mongoose')
-require('../models/user')
 const Manufacturer = require('../models/manufacturer')
 const logger = require('../../../shared/logger')
 const i18n = require('i18n')
+const time = require('../utils/time')
 
 const create = async (req, res) => {
   try {
-    const currentUserId = req.currentUser.id
-    const currentTime = new Date(Date.now()).toISOString()
+    const currentTime = time.currentTime()
     let newManufacturer = new Manufacturer({
       name: req.body.name,
       website: req.body.website,
-      created_by: currentUserId,
+      created_by: req.currentUser.id,
       created_at: currentTime,
       updated_at: currentTime
     })

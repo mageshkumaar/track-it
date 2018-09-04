@@ -1,5 +1,5 @@
 const mongoose = require('mongoose')
-const Category = require('../models/category')
+const Department = require('../models/department')
 const logger = require('../../../shared/logger')
 const i18n = require('i18n')
 const time = require('../utils/time')
@@ -7,15 +7,16 @@ const time = require('../utils/time')
 const create = async (req, res) => {
   try {
     const currentTime = time.currentTime()
-    let newCategory = new Category({
+    let newDepartment = new Department({
       name: req.body.name,
+      manager: req.body.manager,
       created_by: req.currentUser.id,
       created_at: currentTime,
       updated_at: currentTime
     })
-    await newCategory.save()
-    const category = await Category.findById(newCategory._id).populate('created_by', ['firstname', 'lastname', 'email'])
-    res.status(200).send(category)
+    await newDepartment.save()
+    const department = await Department.findById(newDepartment._id).populate('created_by', ['firstname', 'lastname', 'email']).populate('manager', ['firstname', 'lastname', 'email'])
+    res.status(200).send(department)
   } catch (e) {
     logger.error(e.stack)
     return res.status(500).send({
@@ -29,8 +30,8 @@ const show = async (req, res) => {
     if (!mongoose.Types.ObjectId.isValid(req.params.id)) {
       throw new Error('Category Id is an invalid object Id')
     }
-    const category = await Category.findById(req.params.id).populate('created_by', ['firstname', 'lastname', 'email'])
-    return res.status(200).send(category)
+    const department = await Department.findById(req.params.id).populate('created_by', ['firstname', 'lastname', 'email']).populate('manager', ['firstname', 'lastname', 'email'])
+    return res.status(200).send(department)
   } catch (e) {
     logger.error(e.stack)
     return res.status(500).send({
